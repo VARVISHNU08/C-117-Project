@@ -1,0 +1,16 @@
+body{
+    background-color: #ff8c57;
+}
+
+span{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#spnScore{
+    float: left;
+}
+
+#spnTimer{
+    float: right;
+}
